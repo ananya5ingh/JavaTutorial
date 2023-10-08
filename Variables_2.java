@@ -1,3 +1,4 @@
+import java.util.*;
 public class Variables_2 {
     
     public static void main(String[] args){
@@ -56,7 +57,7 @@ public class Variables_2 {
 
         //Long
         // Size: 8 bytes | Description: Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
-        long l = 12121;
+        long l = 999999;
   
         System.out.println("char: " + a);
         System.out.println("integer: " + i);
